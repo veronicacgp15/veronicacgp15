@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veronica Garcia</h1>
-<h3 align="justify">I am a computer science engineer with experience in backend and frontend development, specializing in Laravel, PHP, React.js, Livewire, and Alpine.js. I am proficient in database management (MySQL, PostgreSQL, Oracle, SQL Server) and help companies build secure and optimized web applications.
+<h3 align="justify">I am a computer science engineer with experience in backend and frontend development, specializing in Java, Spring Boot,Laravel, PHP, React.js, Livewire, and Alpine.js. I am proficient in database management (MySQL, PostgreSQL, Oracle, SQL Server) and help companies build secure and optimized web applications.
 
 I am passionate about turning ideas into efficient digital solutions. I enjoy every phase of software development, prioritizing quality, teamwork, and continuous improvement in challenging projects.
 
