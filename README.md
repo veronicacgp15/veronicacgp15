@@ -1,6 +1,6 @@
 <div align="center">
 
-# Verónica García Pinto
+# Verónica Carolina García Pinto
 ### Java Backend Engineer · Microservices · TCS IT Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-garcia-pinto-966436124/)
