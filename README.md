@@ -96,9 +96,8 @@ I care about systems that are **secure, resilient, and maintainable** in real pr
   Pasos: fork github.com/anuraghazra/github-readme-stats → deploy en vercel.com → agrega PAT_1 con tu GitHub Token.
   Mientras tanto, las URLs apuntan al servicio público como fallback.
 -->
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=veronicacgp15&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=veronicacgp15&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+<img height="160" src="https://readme-stats-api-eight.vercel.app/api?username=veronicacgp15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="160" src="https://readme-stats-api-eight.vercel.app/api/top-langs?username=veronicacgp15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
